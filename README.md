@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırmaktadır.
 
-![](kodluyoruzilkrepo/indir.png)
+![](kodluyoruzilkrepo/indir%20spaces.png)
 
 # Installation
 
